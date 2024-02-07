@@ -27,7 +27,8 @@ public class AidaFdzCenita {
 
 	        // Iniciar los hilos de los filósofos
 	        for (int i = 0; i < numFilosofos; i++) {
-	            filosofos[i].start();
+	            //filosofos[i].start();
+	        	 filosofos[i].run();
 	        }
 
 	        // Inicializar el conjunto de turnos

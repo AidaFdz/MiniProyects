@@ -10,8 +10,8 @@ public class AdministracionKassSA {
 	 * - Este cógdigo genera siempre antes de que se consuma todo
 	 * - Eliminamos la complicación de las funciones estadísticas que pueden fallar para crear los objetos
 	 * 
-	 */
-
+	 */}
+/*
 	public static void main(String[] args) {
 		// Este es el main que va a gestionar los hilos de las urgencias
 		urgenciasKass colaur = new urgenciasKass();
@@ -42,3 +42,4 @@ public class AdministracionKassSA {
 
 	}
 }
+*/
